@@ -1,0 +1,11 @@
+{
+  "pages": 19,
+  "sections": 17,
+  "official_source_links": 23,
+  "numeric_audit": "72 checks passed",
+  "visual_qa": "All 19 pages checked; final unchanged pages verified pixel-identical",
+  "outputs": [
+    "AI网站完整成本分析.md",
+    "AI网站完整成本分析与降本方案.pdf"
+  ]
+}
